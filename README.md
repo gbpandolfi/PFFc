@@ -25,11 +25,10 @@ A ferramenta foi desenvolvida utilizando uma hierarquia de classes para represen
 
 ```
 .
-├── main.py                  # Ponto de entrada da aplicação
-├── README.md                # Descrição do repositório
-├── LICENSE                  # Informações sobre a licença do projeto
 ├── pffc/                    # Módulos Python
-└── exemplos/                # Documentação de uso e exemplos resolvidos
+├── exemplos/                # Documentação de uso e exemplos resolvidos
+├── LICENSE                  # Informações sobre a licença do projeto
+└── README.md                # Descrição do repositório
 ```
 
 ---
